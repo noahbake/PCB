@@ -1,3 +1,0 @@
-3DX_Same_Sky_Supplier: Same Sky
-3DX_Same_Sky_Part Number: TB002-500-02BE
-3DX_Same_Sky_Description: 2~24 Poles, Screw Type, Horizontal, 5.0 Pitch, 22-12 (AWG), Terminal Block Connector
